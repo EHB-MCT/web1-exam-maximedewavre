@@ -26,11 +26,13 @@ nav ul {
     padding: 0;
     width: 80%;
     margin: auto;
+    font-size: 1.5em;
+    justify-content: center;
 }
 
 nav span {
     width: max-content;
-    margin: 7px;
+    margin: 18px;
 }
 
 nav ul span a {
@@ -146,7 +148,7 @@ footer span a:hover {
         grid-template-columns: repeat(3, auto);
         width: 32.5%;
         margin-right: 0;
-        font-size: 1em;
+        font-size: 1.4em;
     }
 
     nav span {
